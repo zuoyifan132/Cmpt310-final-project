@@ -1,0 +1,5 @@
+Project : Connect 4 
+member 1 : Yifan Zuo (301354273)
+member 2 : Liyan Ma (301308359)
+language : C++
+library : math, time, random, string.
